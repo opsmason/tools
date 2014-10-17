@@ -17,7 +17,7 @@ Copy this file to ~/Library/Application Scripts/com.Growl.GrowlHelperApp/Rules.s
 * https://discussions.apple.com/thread/3179367
 * http://www.frederikseiffert.de/blueutil/
 * http://growl.info/documentation/applescript-rules
-
+* http://hints.macworld.com/article.php?story=20080529142859915
 *)
 
 using terms from application "Growl"
