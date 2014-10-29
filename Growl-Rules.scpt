@@ -40,9 +40,7 @@ end using terms from
 
 
 to switchbluetooth(mode)
-	tell application "System Preferences"
 		
-		do shell script "/usr/local/bin/blueutil " & mode
+	do shell script "/usr/local/bin/blueutil " & mode
 		
-	end tell
 end switchbluetooth
